@@ -6,3 +6,4 @@ This project aims to predict diabetes in individuals using a neural network mode
 * Dataset: Utilizes the Pima Indians Diabetes dataset for training and evaluation.
 * Visualization: Visualizes key insights using Seaborn and matplotlib libraries.
 * Evaluation: Assesses model performance and accuracy metrics.
+ 
